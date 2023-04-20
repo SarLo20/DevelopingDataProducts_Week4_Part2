@@ -3,7 +3,7 @@ title: "Developing Data Products Week 4 Project"
 subtitle: "Pitch of my shiny app"
 author: "Sarah Lott"
 date: "2023-04-20"
-output: ioslides_presentation
+output: slidy_presentation
 ---
 
 ```{r setup, include=FALSE}
