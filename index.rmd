@@ -1,8 +1,8 @@
 ---
 title: "Developing Data Products Week 4 Project"
-subtitle: "Note: Use the arrow keys to switch between slides"
+subtitle: "Pitch of my shiny app"
 author: "Sarah Lott"
-date: "2023-03-29"
+date: "2023-04-20"
 output: ioslides_presentation
 ---
 
@@ -10,7 +10,21 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Current date
+## Appearance of the app
 
-This presentation was created on: `r Sys.Date()`
+This is how the app looks like:  
+
+![see https://sarlo.shinyapps.io/developingdataproductsweek4/](/home/sarah/ownCloud/Sarah/Data Science Course/9_Developing_Data_Products/DevelopingDataProducts_Week4_Part2/screenshot.png){#id .class width=100% height=100%}
+
+## Explanation 
+
+This is what the app does:
+
+add text
+
+## Linear Model
+
+add some code here
+
+## The end
 
